@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/zhiquanyeo/ftl-standard-interface-hw-raspi/issues"
   },
-  "homepage": "https://github.com/zhiquanyeo/ftl-standard-interface-hw-raspi#readme"
+  "homepage": "https://github.com/zhiquanyeo/ftl-standard-interface-hw-raspi#readme",
+  "dependencies": {
+    "@ftl-robots/ftl-robot-host": "^1.0.2"
+  }
 }

@@ -1,4 +1,4 @@
-const { Interfaces } = require('ftl-robot-host');
+const { Interfaces } = require('@ftl-robots/ftl-robot-host');
 const SerialPort = require('serialport');
 
 class RaspiSerial extends Interfaces.SERIAL {
