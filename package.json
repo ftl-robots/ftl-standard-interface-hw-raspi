@@ -1,5 +1,5 @@
 {
-  "name": "ftl-standard-interface-hw-raspi",
+  "name": "@ftl-robots/ftl-standard-interface-hw-raspi",
   "version": "1.0.0",
   "description": "Raspberry Pi Hardware interfaces for FTL",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zhiquanyeo/ftl-standard-interface-hw-raspi.git"
+    "url": "git+https://github.com/ftl-robots/ftl-standard-interface-hw-raspi.git"
   },
   "author": "ZQ Yeo",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/zhiquanyeo/ftl-standard-interface-hw-raspi/issues"
+    "url": "https://github.com/ftl-robots/ftl-standard-interface-hw-raspi/issues"
   },
-  "homepage": "https://github.com/zhiquanyeo/ftl-standard-interface-hw-raspi#readme",
+  "homepage": "https://github.com/ftl-robots/ftl-standard-interface-hw-raspi#readme",
   "dependencies": {
     "@ftl-robots/ftl-robot-host": "^1.0.2"
   }
